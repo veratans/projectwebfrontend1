@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Overzichtspagina</title>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="menu"><i class="fa fa-bars" aria-hidden="true" alt="menu"></i></a></li>
+                <li><a href=”icon”>logo</a></li>
+                <li><a href=”profiel”><i class="fa fa-user" aria-hidden="true"></i></a></li>
+            </ul>
+        </nav>
+        <input type="text" name="search" placeholder="zoek op artiest, titel, kenmerk...">
+    </header>
+
+    <aside>
+        <a href="locatie">locatie</a>
+        <a href=”populariteit”>populariteit</a>
+        <a href=”profiel”>doelgroep</a>
+    </aside>
+
+    <section>
+        <article>titel 1</article>
+    </section>
+    <section>
+        <article>titel 2</article>
+    </section>
+    <section>
+        <article>titel 3</article>
+    </section>
+    <section>
+        <article>titel 4</article>
+    </section>
+    <section>
+        <article>titel 5</article>
+    </section>
+    <section>
+        <article>titel 6</article>
+    </section>
+    <section>
+        <article>titel 7</article>
+    </section>
+    <section>
+        <article>titel 8</article>
+    </section>
+    <section>
+        <article>titel 9</article>
+    </section>
+    <section>
+        <article>titel 10</article>
+    </section>
+    <section>
+        <article>titel 11</article>
+    </section>
+    <section>
+        <article>titel 12</article>
+    </section>
+
+</body>
+
+</html>
