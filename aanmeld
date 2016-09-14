@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+<!--form gebruikt van: http://www.w3schools.com/html/html_forms.asp/-->
+
+<form action="aanmelden">
+    <input type="radio" name="gender" value="male"> Man
+    <input type="radio" name="gender" value="female" checked> Vrouw
+</form>
+
+<form action="aanmelden">
+    Gebruikersnaam: <input type="text" name="Gebruikersnaam">
+    E-mailadres: <input type="email" name="email">
+    Wachtwoord: <input type="text" name="Wachtwoord">
+    Herhaal wachtwoord: <input type="text" name="Herhaal wachtwoord">
+
+    <input type="submit" name="Aanmelden">
+</form>
+
+</body>
+</html>
